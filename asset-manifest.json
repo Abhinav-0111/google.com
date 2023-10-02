@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/google.com/static/css/main.e7dc9c98.css",
+    "main.js": "/google.com/static/js/main.b479f888.js",
+    "static/media/Alogo.jpg": "/google.com/static/media/Alogo.6a7935e6f3259483ac47.jpg",
+    "static/media/google.png": "/google.com/static/media/google.40de48e89e0cd59958be.png",
+    "static/media/image.svg": "/google.com/static/media/image.b8fed8f89a456609e70d34f0b198dbef.svg",
+    "index.html": "/google.com/index.html",
+    "static/media/mic.svg": "/google.com/static/media/mic.97097c9ee2cbf473e4e2f76431fa121b.svg",
+    "main.e7dc9c98.css.map": "/google.com/static/css/main.e7dc9c98.css.map",
+    "main.b479f888.js.map": "/google.com/static/js/main.b479f888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7dc9c98.css",
+    "static/js/main.b479f888.js"
+  ]
+}
